@@ -1,0 +1,11 @@
+s="hello Python wORld "
+print(len(s))
+print(s.upper())
+a=s.lower()
+print(a) 
+b=s.title()
+print(b)
+c=s.capitalize()
+print(c)
+d=s.swapcase()
+print(d)

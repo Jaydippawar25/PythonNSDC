@@ -1,0 +1,10 @@
+a=[100,20,28,90,50,70]
+print(a)
+a.sort()
+print(a)
+add=a[-1]+a[-2]
+print(add)
+b=a[0]*a[-1]
+print(b)
+sub=a[0]-a[1]
+print(sub)
