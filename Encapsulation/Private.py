@@ -9,4 +9,4 @@ b = Bank()
 b.show_bal()
 
 # print(b.__bal)  # Error 
-#print(b._Bank__bal)
+print(b._Bank__bal)
