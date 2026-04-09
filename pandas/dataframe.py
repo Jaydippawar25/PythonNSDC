@@ -7,5 +7,5 @@ dict = {
 df = pd.DataFrame(dict )
 
 # print(df)
-print(df[1:2])
+print(df[0:3])
 # print(df['age'])
